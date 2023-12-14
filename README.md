@@ -1,0 +1,1 @@
+# NEARBY LiTE - A lightweight, fast and simple library for finding nearby places using Places API.
